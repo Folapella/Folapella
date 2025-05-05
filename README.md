@@ -1,44 +1,70 @@
-👋 Hi, I'm Tina Rufai — Data Analyst | Insight Seeker | Storyteller with a Marketing Twist
-📊 Turning data into direction — with a marketer's intuition and an analyst’s precision
-💼 About Me
-I'm a Data Analyst with a unique foundation in event planning and marketing. My journey from managing high-impact campaigns and coordinating seamless events to crunching data and visualizing insights gives me a versatile edge: I understand both the numbers and the narratives behind them.
 
-My superpower? Blending analytical rigor with creative strategy to drive decisions that matter.
 
-🔧 Tools & Technologies
-Data Analysis: Excel | SQL | Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 👋 Hi there! I'm **Tina Rufai**
 
-Data Visualization: Power BI | Tableau
+**Data Analyst | Insight-Driven Thinker | Marketing-Savvy Problem Solver**
 
-Data Wrangling & Automation: Jupyter Notebook | Excel VBA
+---
 
-Other Skills: Data storytelling | KPI design | Dashboard building | Campaign analysis
+### 🔍 About Me
 
-📈 What I Do
-Analyze datasets to uncover actionable insights
+I’m a **Data Analyst** with a strong foundation in **Excel**, **SQL**, **Python**, **Power BI**, and **Tableau** — backed by real-world experience in **event planning** and **marketing**.
 
-Design intuitive dashboards to support decision-making
+What sets me apart? A rare blend of **analytical thinking**, **project management**, and **storytelling** — turning raw data into actionable business insights that drive performance and decision-making.
 
-Automate reports and streamline workflows
+---
 
-Translate business problems into data-driven solutions
+### 🧰 Tools & Technologies
 
-Leverage marketing acumen to interpret trends and behavior
+* **Data Analysis & Manipulation:**
+  `Excel` | `SQL` | `Python` (`pandas`, `numpy`, `matplotlib`, `seaborn`)
 
-🌟 Featured Projects
-📌 Marketing Campaign Dashboard in Power BI
-Interactive dashboard showcasing campaign performance across multiple channels
+* **Data Visualization:**
+  `Power BI` | `Tableau`
 
-📌 Event Analytics with Python
-A Python-based analysis of attendance trends and ROI from major events
+* **Reporting & Automation:**
+  `Excel Dashboards` | `Power Query` | `Jupyter Notebooks`
 
-📌 SQL Insights on Sales Data
-Complex queries to uncover patterns in transactional data
+* **Soft Skills:**
+  📈 Business Communication | 🎯 Strategic Planning | 🤝 Stakeholder Collaboration
 
-✨ What Sets Me Apart
-With a background in project management and marketing, I bring more than just technical skill—I bring context, communication, and collaboration to every data project. I understand stakeholder goals and bridge the gap between data and decision-making.
+---
 
-📬 Let’s Connect!
-🔗 LinkedIn | 📧 Email | 🌐 Portfolio
+### 📊 What I Do
 
-“Without data, you're just another person with an opinion.” — W. Edwards Deming
+* Analyze and interpret data to uncover trends, patterns, and insights
+* Design clear, impactful dashboards and reports
+* Translate business needs into data solutions
+* Automate workflows and streamline reporting processes
+* Bridge the gap between **technical data analysis** and **strategic business goals**
+
+---
+
+### 🏆 Selected Highlights
+
+* ✅ **Marketing Campaign Dashboard – Power BI**
+  Developed an interactive dashboard tracking key KPIs across channels to inform future strategy.
+
+* ✅ **Event ROI Analysis – Python**
+  Used Python to analyze event data, revealing key attendance drivers and revenue metrics.
+
+* ✅ **Sales Data Insights – SQL**
+  Built optimized SQL queries to support monthly performance reporting and inventory analysis.
+
+---
+
+### 💡 Why Me?
+
+With hands-on experience in **marketing** and **event operations**, I approach data with more than just a technical lens — I bring **context**, **intuition**, and a **strategic mindset**. I understand what business stakeholders need, and I deliver data that speaks their language.
+
+---
+
+### 📬 Let’s Connect
+
+* 🌐 [Portfolio](#)
+* 💼 [LinkedIn](#)
+* 📧 [Email](mailto:youremail@example.com)
+
+---
+
+> *“Data without context is just noise. I turn it into strategy.”*
