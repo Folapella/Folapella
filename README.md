@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name] — Data Analyst | Insight Seeker | Storyteller with a Marketing Twist
+👋 Hi, I'm Tina Rufai — Data Analyst | Insight Seeker | Storyteller with a Marketing Twist
 📊 Turning data into direction — with a marketer's intuition and an analyst’s precision
 💼 About Me
 I'm a Data Analyst with a unique foundation in event planning and marketing. My journey from managing high-impact campaigns and coordinating seamless events to crunching data and visualizing insights gives me a versatile edge: I understand both the numbers and the narratives behind them.
